@@ -13,9 +13,8 @@ Spherebounce is a [Python](https://www.python.org/) game in which you draw walls
 ## Usage
 
 ```cmd
-git init  
-git pull https://github.com/ntntnldmg/spherebounce master  
-cd src  
+git clone https://github.com/ntntnldmg/spherebounce master  
+cd spherebounce/src  
 python main.py
 ```
 
